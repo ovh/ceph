@@ -8,5 +8,5 @@ grpc-google-pubsub-v1==0.8.1
 grpcio==1.14.1
 mock==2.0.0
 numpy==1.15.1
-scikit-learn==0.19.2
+scikit-learn==1.5.0
 scipy==1.1.0
